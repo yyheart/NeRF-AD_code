@@ -6,7 +6,7 @@ The repository of the paper __*NeRF-AD: Neural Radiance Field with Attention-bas
   </b>
 </p>
   <p align='center'>  
-    <img src='img/method.jpg' width='800'/>
+    <img src='img/method_.jpg' width='800'/>
   </p>
   
 ## Code
